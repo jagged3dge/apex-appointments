@@ -1,0 +1,21 @@
+node_modules/
+*.log
+*~
+.DS_Store
+
+# Logs and runtime data
+logs/*
+npm-debug.log*
+yarn.lock*
+
+# IDE configuration files
+.idea/
+
+# OS-specific artifacts
+.DS_Store
+Thumbs.db
+
+# Compiled source
+dist/
+build/
+coverage/
